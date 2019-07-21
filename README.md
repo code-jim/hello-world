@@ -1,2 +1,4 @@
 # hello-world
-My hello-world repo
+My hello-world project.
+
+My first edits.
